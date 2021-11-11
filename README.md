@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pruthviphule
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently working, ready to grab new apportunities
+- 🌱 ready to grab new apportunities
 - 📫 How to reach me by E-mail : pruthviphule@gmail.com
 
 <!---
