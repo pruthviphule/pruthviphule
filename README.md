@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pruthviphule
-- 👀 I’m interested in learning new things
+- 👀 Good exposure to DevOps key concepts and AWS cloud solutions such as VPN, NAT, S3, RDS, EBS, ELK, Serverless.
 - 🌱 ready to grab new apportunities
 - 📫 How to reach me by E-mail : pruthviphule@gmail.com
 
